@@ -3,9 +3,12 @@
 
 POSGRADOS PANAMERICANA:
 1. https://posgrados-panamericana.up.edu.mx/
-2. https://movil.up.edu.mx/-temporary-slug-7feca909-6a64-44a4-905f-86cf392f0b1c?hs_preview=XKfQFwUs-187993646009
-3. https://posgrados-panamericana.up.edu.mx/test?hs_preview=JROZxrsj-123407401124
-4. https://posgrados-panamericana.up.edu.mx/cdmx/esdai/diplomado-en-experiencias-gourmet
+2. https://posgrados-panamericana.up.edu.mx/cdmx/ingenieria/maestria-en-ciencia-de-datos-mcd
+3. https://movil.up.edu.mx/medicina/posgrados/diplomado-educacion-ciencias-de-la-salud
+4. https://movil.up.edu.mx/medicina/enarm
+5. 3. https://movil.up.edu.mx/-temporary-slug-7feca909-6a64-44a4-905f-86cf392f0b1c?hs_preview=XKfQFwUs-187993646009
+6. https://posgrados-panamericana.up.edu.mx/test?hs_preview=JROZxrsj-123407401124
+   
 
 NACDI
 1. https://movil.up.edu.mx/culturaldiplomacyinitiativemexico?hs_preview=xhUiKwnC-188650463624
